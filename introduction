@@ -1,6 +1,29 @@
 This is a collection of wisdom from the
 most wise of Computer Science teachers in Ottawa.
 
+
+
+Start slow
+
+
+Coding is cool! Merging is awesome!
+
+
+Another day ...
+
 It was a dark and stormy night... by Snoopie
 
+<<<<<<< HEAD
 The computer science teachers were Git-ing some hands on experience!
+=======
+No matter what temperature a room is, it's always
+room temperature.
+
+
+Another day ...
+It was a dark and stormy night... by Snoopie
+
+trying to add this
+>>>>>>> branch 'master' of https://github.com/ONFEWorkshop/git-story-all-teachers.git
+
+The computer science teachers we Git-ing some hands on experience!
